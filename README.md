@@ -1,4 +1,4 @@
-# Klipper_DFPlayer
+# Talking 3Dprinter with Klipper RPI Bluepill DFPlayer
  Project to make a talikng printer with a speaker, rpi, microcontroller and klipper.
  ### Features:
  Volume control from (0-10 levels)
