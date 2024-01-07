@@ -94,3 +94,4 @@ You can check this code as well, but its is not necessary to use it
 #### Wiring for Test Setup 
 ![2024-01-07_21h17_53](https://github.com/Kislac/Klipper_DFPlayer/assets/34631881/5c4342fd-1eb5-4ce2-80aa-536579c32b3e)
 
+### KlipperPrinterConfig
